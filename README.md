@@ -1,4 +1,4 @@
-# Barcode-Scanner-Vision_API
+# Barcode-Scanner-Vision-API
 An Android application used to scan Barcode developed using Google Vision Barcode API.
 
 ## Requirements
